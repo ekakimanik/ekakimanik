@@ -1,81 +1,79 @@
 #EXTM3U
-#EXTINF:0,http://tv.googledrivelinks.com:8088/live.php?c=Sony_Max_HD&q=1200&e=.m3u8
-http://tv.googledrivelinks.com:8088/live.php?c=Sony_Max_SD&q=1200&e=.m3u8
-#EXTINF:0,http://tv.googledrivelinks.com:8088/live.php?c=Sony_MAX2&q=1200&e=.m3u8
-http://tv.googledrivelinks.com:8088/live.php?c=Colors_Cineplex_HD&q=1200&e=.m3u8
-#EXTINF:0,http://tv.googledrivelinks.com:8088/live.php?c=Colors_Cineplex&q=1200&e=.m3u8
-http://tv.googledrivelinks.com:8088/live.php?c=Rishtey_Cineplex&q=1200&e=.m3u8
-#EXTINF:0,http://tv.googledrivelinks.com:8088/live.php?c=Zee_Cinema_HD&q=1200&e=.m3u8
-http://tv.googledrivelinks.com:8088/live.php?c=And_Pictures_HD&q=1200&e=.m3u8
-#EXTINF:0,http://tv.googledrivelinks.com:8088/live.php?c=B4U_Movies&q=1200&e=.m3u8
-http://tv.googledrivelinks.com:8088/live.php?c=Zee_Classic&q=1200&e=.m3u8
-#EXTINF:0,http://tv.googledrivelinks.com:8088/live.php?c=Bhojpuri_Cinema&q=1200&e=.m3u8
-http://tv.googledrivelinks.com:8088/live.php?c=Enterr_10&q=1200&e=.m3u8
-#EXTINF:0,http://tv.googledrivelinks.com:8088/live.php?c=Zee_Action&q=1200&e=.m3u8
-http://tv.googledrivelinks.com:8088/live.php?c=Zee_Anmol_Cinema&q=1200&e=.m3u8
-#EXTINF:0,http://tv.googledrivelinks.com:8088/live.php?c=Zee_Cinemalu&q=1200&e=.m3u8
-http://tv.googledrivelinks.com:8088/live.php?c=Manoranjan_Movies&q=1200&e=.m3u8
-#EXTINF:0,http://tv.googledrivelinks.com:8088/live.php?c=Sony_Pix_HD&q=1200&e=.m3u8
-http://tv.googledrivelinks.com:8088/live.php?c=Sony_Pix_SD&q=1200&e=.m3u8
-#EXTINF:0,http://tv.googledrivelinks.com:8088/live.php?c=Six_HD&q=1200&e=.m3u8
-http://tv.googledrivelinks.com:8088/live.php?c=Ten_HD&q=1200&e=.m3u8
-#EXTINF:0,http://tv.googledrivelinks.com:8088/live.php?c=Ten2_HD&q=1200&e=.m3u8
-http://tv.googledrivelinks.com:8088/live.php?c=Ten3_HD&q=1200&e=.m3u8
-#EXTINF:0,http://tv.googledrivelinks.com:8088/live.php?c=Ten_1&q=1200&e=.m3u8
-http://tv.googledrivelinks.com:8088/live.php?c=Ten_2&q=1200&e=.m3u8
-#EXTINF:0,http://tv.googledrivelinks.com:8088/live.php?c=Ten_3&q=1200&e=.m3u8
-http://tv.googledrivelinks.com:8088/live.php?c=Sony_Six_SD&q=1200&e=.m3u8
-#EXTINF:0,http://tv.googledrivelinks.com:8088/live.php?c=Jio_Cricket&q=1200&e=.m3u8
-http://tv.googledrivelinks.com:8088/live.php?c=Jio_Cricket_English&q=1200&e=.m3u8
-#EXTINF:0,http://tv.googledrivelinks.com:8088/live.php?c=Jio_Cricket_1_HD&q=1200&e=.m3u8
-http://tv.googledrivelinks.com:8088/live.php?c=Jio_Cricket_2_HD&q=1200&e=.m3u8
-#EXTINF:0,http://tv.googledrivelinks.com:8088/live.php?c=Jio_Cricket_3_HD&q=1200&e=.m3u8
-http://tv.googledrivelinks.com:8088/live.php?c=Jio_Cricket_4_HD&q=1200&e=.m3u8
-#EXTINF:0,http://tv.googledrivelinks.com:8088/live.php?c=Jio_Cricket_1_HD&q=1200&e=.m3u8
-http://tv.googledrivelinks.com:8088/live.php?c=Jio_Sports&q=1200&e=.m3u8
-#EXTINF:0,http://tv.googledrivelinks.com:8088/live.php?c=Dsports_HD&q=1200&e=.m3u8
-http://tv.googledrivelinks.com:8088/live.php?c=Jio_Football&q=1200&e=.m3u8
-#EXTINF:0,http://tv.googledrivelinks.com:8088/live.php?c=Jio_Cricket_1_HD&q=1200&e=.m3u8
-http://tv.googledrivelinks.com:8088/live.php?c=Jio_Football_1&q=1200&e=.m3u8
-#EXTINF:0,http://tv.googledrivelinks.com:8088/live.php?c=Jio_Football_2&q=1200&e=.m3u8
-http://tv.googledrivelinks.com:8088/live.php?c=Jio_Football_3&q=1200&e=.m3u8
-#EXTINF:0,http://tv.googledrivelinks.com:8088/live.php?c=Jio_Football_4&q=1200&e=.m3u8
-http://tv.googledrivelinks.com:8088/live.php?c=Jio_Football_Bangali_HD&q=1200&e=.m3u8
-#EXTINF:0,http://tv.googledrivelinks.com:8088/live.php?c=DD_Sports&q=1200&e=.m3u8
-http://tv.googledrivelinks.com:8088/live.php?c=Colors_HD&q=1200&e=.m3u8
-#EXTINF:0,http://tv.googledrivelinks.com:8088/live.php?c=Sony_HD&q=1200&e=.m3u8
-http://tv.googledrivelinks.com:8088/live.php?c=Sony_Wah&q=1200&e=.m3u8
-#EXTINF:0,http://tv.googledrivelinks.com:8088/live.php?c=Sony_SD&q=1200&e=.m3u8
-http://tv.googledrivelinks.com:8088/live.php?c=Sony_aath&q=1200&e=.m3u8
-#EXTINF:0,http://tv.googledrivelinks.com:8088/live.php?c=Zee_TV_HD&q=1200&e=.m3u8
-http://tv.googledrivelinks.com:8088/live.php?c=Nick_Hindi&q=1200&e=.m3u8
-#EXTINF:0,http://tv.googledrivelinks.com:8088/live.php?c=Nick_Bangla&q=1200&e=.m3u8
-http://tv.googledrivelinks.com:8088/live.php?c=Pogo_Hindi&q=1200&e=.m3u8
-#EXTINF:0,http://tv.googledrivelinks.com:8088/live.php?c=Cartoon_Network_Hindi&q=1200&e=.m3u8
-http://tv.googledrivelinks.com:8088/live.php?c=Discovery_HD_World&q=1200&e=.m3u8
-#EXTINF:0,http://tv.googledrivelinks.com:8088/live.php?c=Sony_BBC_Earth_HD&q=1200&e=.m3u8
-http://tv.googledrivelinks.com:8088/live.php?c=History_HD&q=1200&e=.m3u8
-#EXTINF:0,http://tv.googledrivelinks.com:8088/live.php?c=TLC_HD_World&q=1200&e=.m3u8
-http://tv.googledrivelinks.com:8088/live.php?c=Animal_Planet_HD&q=1200&e=.m3u8
-#EXTINF:0,http://tv.googledrivelinks.com:8088/live.php?c=Travel_XP_HD&q=1200&e=.m3u8
-http://tv.googledrivelinks.com:8088/live.php?c=Discovery_Channel_Bengali&q=1200&e=.m3u8
-#EXTINF:0,http://tv.googledrivelinks.com:8088/live.php?c=And_TV_HD&q=1200&e=.m3u8
-http://tv.googledrivelinks.com:8088/live.php?c=Sony_SAB_HD&q=1200&e=.m3u8
-#EXTINF:0,http://tv.googledrivelinks.com:8088/live.php?c=Comedy_Central_HD&q=1200&e=.m3u8
-http://tv.googledrivelinks.com:8088/live.php?c=Colors_Bengali_HD&q=1200&e=.m3u8
-#EXTINF:0,http://tv.googledrivelinks.com:8088/live.php?c=Colors_Infinity_HD&q=1200&e=.m3u8
-http://tv.googledrivelinks.com:8088/live.php?c=Colors_Infinity_HD&q=1200&e=.m3u8
-#EXTINF:0,http://tv.googledrivelinks.com:8088/live.php?c=MTV_Beats_HD&q=1200&e=.m3u8
-http://tv.googledrivelinks.com:8088/live.php?c=MTV_Beats_SD&q=1200&e=.m3u8
-#EXTINF:0,http://tv.googledrivelinks.com:8088/live.php?c=Mastiii&q=1200&e=.m3u8
-http://tv.googledrivelinks.com:8088/live.php?c=Zing&q=1200&e=.m3u8
-#EXTINF:0,http://tv.googledrivelinks.com:8088/live.php?c=MTV_HD_Plus&q=1200&e=.m3u8
-http://tv.googledrivelinks.com:8088/live.php?c=9XM&q=1200&e=.m3u8
-#EXTINF:0,http://tv.googledrivelinks.com:8088/live.php?c=VH1&q=1200&e=.m3u8
-http://tv.googledrivelinks.com:8088/live.php?c=E_24&q=1200&e=.m3u8
-#EXTINF:0,http://tv.googledrivelinks.com:8088/live.php?c=B4U_Music&q=1200&e=.m3u8
-http://tv.googledrivelinks.com:8088/live.php?c=Zoom&q=1200&e=.m3u8
-#EXTINF:0,http://tv.googledrivelinks.com:8088/live.php?c=MTV&q=1200&e=.m3u8
-http://tv.googledrivelinks.com:8088/live.php?c=9X_Jalwa&q=1200&e=.m3u8
-#EXTINF:0,http://tv.googledrivelinks.com:8088/live.php?c=Sangeet_Bangla&q=1200&e=.m3u8
-
+#EXTINF:0,colors bangla
+http://30.30.30.30:8081/live/indian4/chunks.m3u8?nimblesessionid=23480
+#EXTINF:0,roal tv
+http://30.30.30.30:8081/live/bangla12/chunks.m3u8?nimblesessionid=23424
+#EXTINF:0,bangla tv
+http://30.30.30.30:8081/live/bangla8/chunks.m3u8?nimblesessionid=23421
+#EXTINF:0,news 24
+http://30.30.30.30:8081/live/bangla23/chunks.m3u8?nimblesessionid=23444
+#EXTINF:0,bein sports
+http://30.30.30.30:8081/live/sports1/chunks.m3u8?nimblesessionid=23384
+#EXTINF:0,bangla vision
+http://30.30.30.30:8081/live/bangla29/chunks.m3u8?nimblesessionid=23454
+#EXTINF:0,my tv hd
+http://30.30.30.30:8081/live/bangla3/chunks.m3u8?nimblesessionid=23405
+#EXTINF:0,my tv 2
+http://30.30.30.30:8081/live/bangla5/chunks.m3u8?nimblesessionid=23409
+#EXTINF:0,http://30.30.30.30:8081/live/hindi11/chunks.m3u8?nimblesessionid=23475
+utsav bharat
+#EXTINF:0,http://30.30.30.30:8081/live/bangla24/chunks.m3u8?nimblesessionid=23448
+channel 24
+#EXTINF:0,http://30.30.30.30:8081/live/bangla1/chunks.m3u8?nimblesessionid=23400
+express
+#EXTINF:0,http://30.30.30.30:8081/live/hindi4/chunks.m3u8?nimblesessionid=23465
+boishaki tv plus
+#EXTINF:0,http://30.30.30.30:8081/live/bangla18/chunks.m3u8?nimblesessionid=23433
+rtv hd
+#EXTINF:0,http://30.30.30.30:8081/live/bangla30/chunks.m3u8?nimblesessionid=23460
+boishaki
+#EXTINF:0,http://30.30.30.30:8081/live/bangla7/chunks.m3u8?nimblesessionid=23417
+ekushey tv
+#EXTINF:0,http://30.30.30.30:8081/live/bangla20/chunks.m3u8?nimblesessionid=23437
+jamuna
+#EXTINF:0,http://30.30.30.30:8081/live/bangla28/chunks.m3u8?nimblesessionid=23450
+atn music
+#EXTINF:0,http://30.30.30.30:8081/live/bangla6/chunks.m3u8?nimblesessionid=23412
+zee anmol cinema
+#EXTINF:0,http://30.30.30.30:8081/live/hindi9/chunks.m3u8?nimblesessionid=23472
+atn bangla
+#EXTINF:0,http://30.30.30.30:8081/live/bangla16/chunks.m3u8?nimblesessionid=23427
+nasa
+#EXTINF:0,http://30.30.30.30:8081/live/english/chunks.m3u8?nimblesessionid=23493
+sun bangla
+#EXTINF:0,http://30.30.30.30:8081/live/indian7/chunks.m3u8?nimblesessionid=23490
+akash 8
+#EXTINF:0,http://30.30.30.30:8081/live/indian6/chunks.m3u8?nimblesessionid=23487
+colors bangla cinema
+#EXTINF:0,http://30.30.30.30:8081/live/indian5/chunks.m3u8?nimblesessionid=23483
+sony ten 2
+#EXTINF:0,http://30.30.30.30/live/skyfeed1007/index.m3u8
+colors hd
+#EXTINF:0,http://30.30.30.30:8081/live/hindi/chunks.m3u8?nimblesessionid=23463
+sony ten 1
+#EXTINF:0,http://30.30.30.30/live/skyfeed1006/index.m3u8
+star  sports 1
+#EXTINF:0,http://30.30.30.30/live/skyfeed1011/index.m3u8
+gazi tv hd
+#EXTINF:0,http://30.30.30.30/live/skyfeed1005/index.m3u8
+star sports select 2
+#EXTINF:0,http://30.30.30.30/live/skyfeed1010/index.m3u8
+star sports 2
+#EXTINF:0,http://30.30.30.30/live/skyfeed1012/index.m3u8
+star sports select 1
+#EXTINF:0,http://30.30.30.30/live/skyfeed1009/index.m3u8
+t sports
+#EXTINF:0,http://30.30.30.30/live/skyfeed2001/index.m3u8
+ptv sports hd
+#EXTINF:0,http://30.30.30.30/live/skyfeed2004/index.m3u8
+Sony Tv
+#EXTINF:0,http://30.30.30.30/live/skyfeed2006/index.m3u8
+star jalsha hd
+#EXTINF:0,http://30.30.30.30/live/skyfeed2007/index.m3u8
+star jalsha hd
+#EXTINF:0,http://30.30.30.30/live/skyfeed2008/index.m3u8
+Star sports 1 hd
+#EXTINF:0,http://30.30.30.30/live/skyfeed2002/index.m3u8
+http://30.30.30.30/live/skyfeed1008/index.m3u8
+#EXTINF:0,Sony Max
+http://30.30.30.30/live/skyfeed2005/index.m3u8
