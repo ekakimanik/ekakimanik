@@ -1,11 +1,11 @@
 #EXTM3U
-#EXTINF:0,colors bangla
+#EXTINF:1,colors bangla
 http://30.30.30.30:8081/live/indian4/chunks.m3u8?nimblesessionid=23480
 #EXTINF:0,roal tv
 http://30.30.30.30:8081/live/bangla12/chunks.m3u8?nimblesessionid=23424
 #EXTINF:0,bangla tv
 http://30.30.30.30:8081/live/bangla8/chunks.m3u8?nimblesessionid=23421
-#EXTINF:0,news 24
+#EXTINF:1,news 24
 http://30.30.30.30:8081/live/bangla23/chunks.m3u8?nimblesessionid=23444
 #EXTINF:0,bein sports
 http://30.30.30.30:8081/live/sports1/chunks.m3u8?nimblesessionid=23384
