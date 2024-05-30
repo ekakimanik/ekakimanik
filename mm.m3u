@@ -285,4 +285,335 @@ https://bpcdn.dialog.lk/bpk-tv/Ch058/output/index.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=9146bd4d5f5089e5ccfbca1edc7b5462:1b511b2a4b0e57170422728a5181f56c
-#EXTINF:-1 tvg-logo="https://
+#EXTINF:-1 tvg-logo="https://d3hhg1rtk1dmrv.cloudfront.net/dialogdigitizationservices/productcatalogue/dtv/4/064.png", Nat Geo
+https://bpcdn.dialog.lk/bpk-tv/Ch059/output/index.mpd 
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=09cf6b5c15fbee993e587cd26149b219:b04ff2c9e39cdcdcac7bb15d23f8d405
+#EXTINF:-1 tvg-logo="https://d3hhg1rtk1dmrv.cloudfront.net/dialogdigitizationservices/productcatalogue/dtv/4/065.png", History TV 18
+https://bpcdn.dialog.lk/bpk-tv/Ch060/output/index.mpd 
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ec45f3e499f6a427004d11799aa5e28a:918e7a95665e23a987c07b7448771c6a
+#EXTINF:-1 tvg-logo="https://d3hhg1rtk1dmrv.cloudfront.net/dialogdigitizationservices/productcatalogue/dtv/4/066.png", Travel XP
+https://bpcdn.dialog.lk/bpk-tv/Ch061/output/index.mpd 
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=5681ce57e1b1b01e3294b9f4dda3cd47:4f0ce826162a2324e00b38037c66813a
+#EXTINF:-1 tvg-logo="https://d3hhg1rtk1dmrv.cloudfront.net/dialogdigitizationservices/productcatalogue/dtv/4/099.png", HGTV
+https://bpcdn.dialog.lk/bpk-tv/Ch062/output/index.mpd 
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=a8291de8b8740c7ed710bc2200128557:e851cebf847b2d391fb34ec15352940b
+#EXTINF:-1 tvg-logo="https://d3hhg1rtk1dmrv.cloudfront.net/dialogdigitizationservices/productcatalogue/dtv/4/096.png", Food Network
+https://bpcdn.dialog.lk/bpk-tv/Ch063/output/index.mpd 
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=219f053b480a40ca4a53ec224ef14555:58349d7f24097936ad0c6b7f693fd822
+#EXTINF:-1 tvg-logo="https://d3hhg1rtk1dmrv.cloudfront.net/dialogdigitizationservices/productcatalogue/dtv/4/sony_sports_1.jpeg", Sony sports 1
+https://bpcdn.dialog.lk/bpk-tv/Ch064/output/index.mpd 
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=abfc480ae7920a3ebd9e99e7b9a0d3e2:63a7fe4e7899ba2bc5bbd4307398f3ff
+#EXTINF:-1 tvg-logo="https://d3hhg1rtk1dmrv.cloudfront.net/dialogdigitizationservices/productcatalogue/dtv/4/069.png", Ten Cricket
+https://bpcdn.dialog.lk/bpk-tv/Ch065/output/index.mpd 
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=5ead65dfeb91902eb2f06d1b5f5ac25e:234348025ea02d38a05d274e31520cfa
+#EXTINF:-1 tvg-logo="https://d3hhg1rtk1dmrv.cloudfront.net/dialogdigitizationservices/productcatalogue/dtv/4/sony_sports_2.jpeg", Sony sports 2
+https://bpcdn.dialog.lk/bpk-tv/Ch066/output/index.mpd 
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=a908bac4035ab54e3f0a265d7b2478c9:43274338b768b62c5a0efcabcbaf3e28
+#EXTINF:-1 tvg-logo="https://d3hhg1rtk1dmrv.cloudfront.net/dialogdigitizationservices/productcatalogue/dtv/4/071.png", Eurosport
+https://bpcdn.dialog.lk/bpk-tv/Ch067/output/index.mpd 
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=79b340b2b5f7c3c89951daabde7cdf97:3e22bc39d22a7f8c3516f6b58b144668
+#EXTINF:-1 tvg-logo="https://d3hhg1rtk1dmrv.cloudfront.net/dialogdigitizationservices/productcatalogue/dtv/4/074.png", Star Sports 2
+https://bpcdn.dialog.lk/bpk-tv/Ch069/output/index.mpd 
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=f067e27443af2dc5732d0c0f5fd7d635:2330e4780e0d00e2844650fc61398151
+#EXTINF:-1 tvg-logo="https://d3hhg1rtk1dmrv.cloudfront.net/dialogdigitizationservices/productcatalogue/dtv/4/081.png", HBO Signature
+https://bpcdn.dialog.lk/bpk-tv/Ch070/output/index.mpd 
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=fb1f8d804939c732edc63782d8e33e26:81699afb39dccfecf24b5f506a56d01e
+#EXTINF:-1 tvg-logo="https://d3hhg1rtk1dmrv.cloudfront.net/dialogdigitizationservices/productcatalogue/dtv/4/083.png", HBO Family
+https://bpcdn.dialog.lk/bpk-tv/Ch071/output/index.mpd 
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=8f762d3b3483516558cbde2450a31177:496d0603280e904a223caa65081e6dad
+#EXTINF:-1 tvg-logo="https://d3hhg1rtk1dmrv.cloudfront.net/dialogdigitizationservices/productcatalogue/dtv/4/085.png", &flix
+https://bpcdn.dialog.lk/bpk-tv/Ch072/output/index.mpd 
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=65bd7d18b13569e29c0ae7553b934d21:23627608eb9d3905e9447253dd9f21a1
+#EXTINF:-1 tvg-logo="https://d3hhg1rtk1dmrv.cloudfront.net/dialogdigitizationservices/productcatalogue/dtv/4/086.png", HITS MOVIES
+https://bpcdn.dialog.lk/bpk-tv/Ch073/output/index.mpd 
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=a7631d3ad183aaff6255e85a2e4a6562:a5061952f9ab1e3d562f32bc55125084
+#EXTINF:-1 tvg-logo="https://d3hhg1rtk1dmrv.cloudfront.net/dialogdigitizationservices/productcatalogue/dtv/4/sony_pix.jpeg", Sony PIX
+https://bpcdn.dialog.lk/bpk-tv/Ch074/output/index.mpd 
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=94981f28e78b11a566e30b141e6c9f93:193d801f211b0579a7a2f987b2f7903c
+#EXTINF:-1 tvg-logo="https://d3hhg1rtk1dmrv.cloudfront.net/dialogdigitizationservices/productcatalogue/dtv/4/089.png", HITS
+https://bpcdn.dialog.lk/bpk-tv/Ch075/output/index.mpd 
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=2e79d794d56a96616533e053aa41bd06:5bedaf1660f0b28c0d1cb0bec04ee474
+#EXTINF:-1 tvg-logo="https://d3hhg1rtk1dmrv.cloudfront.net/dialogdigitizationservices/productcatalogue/dtv/4/090.png", Zee Cafe
+https://bpcdn.dialog.lk/bpk-tv/Ch076/output/index.mpd 
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=18ef8412cdc5d4b84a7d6dd148c6b39b:365453b1e6ae0c59ba7a3fc55970c8d4
+#EXTINF:-1 tvg-logo="https://d3hhg1rtk1dmrv.cloudfront.net/dialogdigitizationservices/productcatalogue/dtv/4/092.png", WarnerTV
+https://bpcdn.dialog.lk/bpk-tv/Ch077/output/index.mpd 
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=dd77b60f151d46df8f4d0fbe38f3a8a1:ea109a5399ddada18eb6833acaa27079
+#EXTINF:-1 tvg-logo="https://d3hhg1rtk1dmrv.cloudfront.net/dialogdigitizationservices/productcatalogue/dtv/4/093.png", AXN
+https://bpcdn.dialog.lk/bpk-tv/Ch078/output/index.mpd 
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=3690e397abd66f0cb36b6caf0a4d2b62:2413bc9dc5f9fd5a724ebb76d55b5d3b
+#EXTINF:-1 tvg-logo="https://d3hhg1rtk1dmrv.cloudfront.net/dialogdigitizationservices/productcatalogue/dtv/4/094.png", Colors Infinity
+https://bpcdn.dialog.lk/bpk-tv/Ch079/output/index.mpd 
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=2b379f74ccd833308dc40e7c35e88fb0:98145ba1d8e2f873ee033ff42af55d76
+#EXTINF:-1 tvg-logo="https://d3hhg1rtk1dmrv.cloudfront.net/dialogdigitizationservices/productcatalogue/dtv/4/ftv-logo.jpg", Fashion TV
+https://bpcdn.dialog.lk/bpk-tv/Ch080/output/index.mpd 
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=1f64dd4075448a8de146e59b3ca2b52a:d4dcb74bca794665aaabfd3cc5dc0b58
+#EXTINF:-1 tvg-logo="https://d3hhg1rtk1dmrv.cloudfront.net/dialogdigitizationservices/productcatalogue/dtv/4/097.png", Fox Life
+https://bpcdn.dialog.lk/bpk-tv/Ch081/output/index.mpd 
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=e02f1d5dd475ba0606327aa1c0b986d2:df0cac0fdcf1d9bd5fa3ea73809a5410
+#EXTINF:-1 tvg-logo="https://d3hhg1rtk1dmrv.cloudfront.net/dialogdigitizationservices/productcatalogue/dtv/4/098.png", Comedy Central
+https://bpcdn.dialog.lk/bpk-tv/Ch082/output/index.mpd 
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=c5bd577ce6d96db866a854e8d311ab23:54e178a4f9d90a346fa522ecc7273a29
+#EXTINF:-1 tvg-logo="https://d3hhg1rtk1dmrv.cloudfront.net/dialogdigitizationservices/productcatalogue/dtv/4/Arirang.png", Arirang TV
+https://bpcdn.dialog.lk/bpk-tv/Ch083/output/index.mpd 
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=9f1e451a3d70f4edd8c1e065d10116fe:c245f1e6b6ad077ccf71317fdad84bdf
+#EXTINF:-1 tvg-logo="https://www.indiantvinfo.com/media/2023/02/Star-Bharat-Serials.png", Star Bharat
+https://bpcdn.dialog.lk/bpk-tv/Ch084/output/index.mpd 
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=2880a0f803c857a156804c119b6c2de8:85bf12c34c885dce04df8acd597cc55a
+#EXTINF:-1 tvg-logo="https://d3hhg1rtk1dmrv.cloudfront.net/dialogdigitizationservices/productcatalogue/dtv/4/101.png", Sony Set
+https://bpcdn.dialog.lk/bpk-tv/Ch085/output/index.mpd 
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=5b3ff946d2cbc8ccc1ac008496bc37d5:47a66fa9d0f50053f727314e9972022b
+#EXTINF:-1 tvg-logo="https://d3hhg1rtk1dmrv.cloudfront.net/dialogdigitizationservices/productcatalogue/dtv/4/102.png", SET Max
+https://bpcdn.dialog.lk/bpk-tv/Ch086/output/index.mpd 
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=8a162b02b2e928fc721855a825055ab9:56e1444ac82676e1fd998ef3c99c5781
+#EXTINF:-1 tvg-logo="https://d3hhg1rtk1dmrv.cloudfront.net/dialogdigitizationservices/productcatalogue/dtv/4/103.png", Star Gold
+https://bpcdn.dialog.lk/bpk-tv/Ch087/output/index.mpd 
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=f0dad74ce622feec984a08ed23e8bc03:27f9f4294c8deacb8f50a2cfb372c7c8
+#EXTINF:-1 tvg-logo="https://d3hhg1rtk1dmrv.cloudfront.net/dialogdigitizationservices/productcatalogue/dtv/4/104.png", Colors
+https://bpcdn.dialog.lk/bpk-tv/Ch088/output/index.mpd 
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=48893e5316b416c1cf5f340b30678868:2f015a4feb702ec4c981abe13980b7dd
+#EXTINF:-1 tvg-logo="https://d3hhg1rtk1dmrv.cloudfront.net/dialogdigitizationservices/productcatalogue/dtv/4/105.png", Star Plus
+https://bpcdn.dialog.lk/bpk-tv/Ch089/output/index.mpd 
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=a342e800e7d9e1751003ff41f299eb0d:7fddf5b54f401ffd74a9ec9c0e7c7860
+#EXTINF:-1 tvg-logo="https://d3hhg1rtk1dmrv.cloudfront.net/dialogdigitizationservices/productcatalogue/dtv/4/114.png", B4U Movies
+https://bpcdn.dialog.lk/bpk-tv/Ch090/output/index.mpd 
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0972df12392bc157c30987f6277d6488:13b78754539049a146e0d348e0cf860a
+#EXTINF:-1 tvg-logo="https://d3hhg1rtk1dmrv.cloudfront.net/dialogdigitizationservices/productcatalogue/dtv/4/113.png", Star Gold Romance
+https://bpcdn.dialog.lk/bpk-tv/Ch091/output/index.mpd 
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=a8a602417affa09d98e024320e5535df:026114dd15259eb5331cb20677a9e92b
+#EXTINF:-1 tvg-logo="https://d3hhg1rtk1dmrv.cloudfront.net/dialogdigitizationservices/productcatalogue/dtv/4/112.png", Zee Cinema
+https://bpcdn.dialog.lk/bpk-tv/Ch092/output/index.mpd 
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=e4963e6cce8bc7c40495ffc282e67c5c:783573e74938263c40048da45e00ab3f
+#EXTINF:-1 tvg-logo="https://d3hhg1rtk1dmrv.cloudfront.net/dialogdigitizationservices/productcatalogue/dtv/4/107.png", Colors Tamil
+https://bpcdn.dialog.lk/bpk-tv/Ch093/output/index.mpd 
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ef6bef909c3f7b644cedfdb288ec3b5b:65eeb9ed9c709a886a30eac33f672b52
+#EXTINF:-1 tvg-logo="https://d3hhg1rtk1dmrv.cloudfront.net/dialogdigitizationservices/productcatalogue/dtv/4/108.png", Sun TV
+https://bpcdn.dialog.lk/bpk-tv/Ch094/output/index.mpd 
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=36e3d3ae1013cc749255e771746d148a:57ebecba732a0a1408a7a3cf4e4ce8e6
+#EXTINF:-1 tvg-logo="https://d3hhg1rtk1dmrv.cloudfront.net/dialogdigitizationservices/productcatalogue/dtv/4/109.png", K TV
+https://bpcdn.dialog.lk/bpk-tv/Ch095/output/index.mpd 
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=bf99d18ae369d49cb8477455ab5beb8e:1277ea199f0f8b8ee6942587a59f1460
+#EXTINF:-1 tvg-logo="https://d3hhg1rtk1dmrv.cloudfront.net/dialogdigitizationservices/productcatalogue/dtv/4/110.png", Star Vijay
+https://bpcdn.dialog.lk/bpk-tv/Ch096/output/index.mpd 
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=afd64884e2d2ab5e121208ac8f4eea21:594cf0e6ccfe7216ff26cf658839b693
+#EXTINF:-1 tvg-logo="https://d3hhg1rtk1dmrv.cloudfront.net/dialogdigitizationservices/productcatalogue/dtv/4/111.png", Kalaignar TV
+https://bpcdn.dialog.lk/bpk-tv/Ch097/output/index.mpd 
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0bd2fc447726fba972e8aef463ca1711:722c73ba260b6cf47f49ae876f189593
+#EXTINF:-1 tvg-logo="https://d3hhg1rtk1dmrv.cloudfront.net/dialogdigitizationservices/productcatalogue/dtv/4/115.png", Zee Tamil
+https://bpcdn.dialog.lk/bpk-tv/Ch098/output/index.mpd 
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=436f9924c3a48b2c8c513e82028e0b2a:6e234fb64720783687f02a7096f3737d
+#EXTINF:-1 tvg-logo="https://d3hhg1rtk1dmrv.cloudfront.net/dialogdigitizationservices/productcatalogue/dtv/4/116.png", Sirippoli TV
+https://bpcdn.dialog.lk/bpk-tv/Ch099/output/index.mpd 
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=c650b60a2380a90297165ac312aafc00:96054bc44793e860075f35c375a4842e
+#EXTINF:-1 tvg-logo="https://d3hhg1rtk1dmrv.cloudfront.net/dialogdigitizationservices/productcatalogue/dtv/4/022.png", Guru TV
+https://bpcdn.dialog.lk/bpk-tv/Ch100/output/index.mpd 
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=5d65fd470e6e8bc959334c997d34ff6a:9540457565a81f1ead729c15ccddefa4
+#EXTINF:-1 tvg-logo="https://d3hhg1rtk1dmrv.cloudfront.net/dialogdigitizationservices/productcatalogue/dtv/4/22-Nenasa-Sinhala.png", Nenasa Sinhala Grade 1-5
+https://bpcdn.dialog.lk/bpk-tv/Ch101/output/index.mpd 
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=6b72e21202df96599bb2fc91c9cad3f3:2c43f04d5b0a582bc64033ee7a520565
+#EXTINF:-1 tvg-logo="https://d3hhg1rtk1dmrv.cloudfront.net/dialogdigitizationservices/productcatalogue/dtv/4/22-Nenasa-Sinhala.png", Nenasa Tamil Grade 1-5
+https://bpcdn.dialog.lk/bpk-tv/Ch102/output/index.mpd 
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=a3fd8073fe9f0af9845efd2c80747590:d784cb6bba8a130c303783fe93381f6b
+#EXTINF:-1 tvg-logo="https://d3hhg1rtk1dmrv.cloudfront.net/dialogdigitizationservices/productcatalogue/dtv/4/22-Nenasa-Sinhala.png", Nenasa Sinhala Grade 6-9
+https://bpcdn.dialog.lk/bpk-tv/Ch103/output/index.mpd 
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=219bd8d470a98ab38543b1258d045f7b:26fe3073d542ac75c1f17ab74beb7565
+#EXTINF:-1 tvg-logo="https://d3hhg1rtk1dmrv.cloudfront.net/dialogdigitizationservices/productcatalogue/dtv/4/23-Nenasa-Tamil-OL.png", Nenasa Tamil Grade 6-9
+https://bpcdn.dialog.lk/bpk-tv/Ch104/output/index.mpd 
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d82b0ea4bd0ba68b82a10e0cc955ba9f:9e9db2517d99d3c00c2653c5d41ae6da
+#EXTINF:-1 tvg-logo="https://d3hhg1rtk1dmrv.cloudfront.net/dialogdigitizationservices/productcatalogue/dtv/4/22-Nenasa-Sinhala.png", Nenasa Sinhala O/L
+https://bpcdn.dialog.lk/bpk-tv/Ch105/output/index.mpd 
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=534c2813de30a8c4c953657e8776b8da:87f315db608c359976b088668a839312
+#EXTINF:-1 tvg-logo="https://d3hhg1rtk1dmrv.cloudfront.net/dialogdigitizationservices/productcatalogue/dtv/4/NANASA10.png", Nenasa Tamil O/L
+https://bpcdn.dialog.lk/bpk-tv/Ch106/output/index.mpd 
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0995b5bb85c0e81480aa698e2cf7e019:6500dfee09ba52224c95d16240d51476
+#EXTINF:-1 tvg-logo="https://d3hhg1rtk1dmrv.cloudfront.net/dialogdigitizationservices/productcatalogue/dtv/4/NANASA10.png", Nenasa Sinhala A/L
+https://bpcdn.dialog.lk/bpk-tv/Ch107/output/index.mpd 
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=22638c5ac756363fdcd4cc7ce04189ae:16104147a1df4f3a58d0cc19f0b1bece
+#EXTINF:-1 tvg-logo="https://d3hhg1rtk1dmrv.cloudfront.net/dialogdigitizationservices/productcatalogue/dtv/4/NANASA10.png", Nenasa Tamil A/L
+https://bpcdn.dialog.lk/bpk-tv/Ch108/output/index.mpd 
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=c1b4d41a750d55e393ca136e05cfa945:c559f6a5264850b3ab978b869483f137
+#EXTINF:-1 tvg-logo="https://d3hhg1rtk1dmrv.cloudfront.net/dialogdigitizationservices/productcatalogue/dtv/4/125.png", Discovery HD World
+https://bpcdn.dialog.lk/bpk-tv/Ch109/output/index.mpd 
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=aa4c1031e5dc2c9bb7035760b498d0c7:cea7a602fa55da46c0985a1fecd867a4
+#EXTINF:-1 tvg-logo="https://dialogselfcare.s3.ap-southeast-1.amazonaws.com/dialogdigitizationservices/productcatalogue/dtv/4/127-Animal-Planet-HD.png", Animal Planet HD
+https://bpcdn.dialog.lk/bpk-tv/Ch110/output/index.mpd 
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=18041ae9f0f710cc76665dd87186982d:d6f793ef16083c382b12d33e7a3b9a3f
+#EXTINF:-1 tvg-logo="https://d3hhg1rtk1dmrv.cloudfront.net/dialogdigitizationservices/productcatalogue/dtv/4/128.png", AXN HD
+https://bpcdn.dialog.lk/bpk-tv/Ch111/output/index.mpd 
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=b4f62d9b5dc911695180120368c6a7ae:231d9d76d8aa8b26327ffb89cda93699
+#EXTINF:-1 tvg-logo="https://d3hhg1rtk1dmrv.cloudfront.net/dialogdigitizationservices/productcatalogue/dtv/4/095.png", Rock Entertainment HD
+https://bpcdn.dialog.lk/bpk-tv/Ch112/output/index.mpd 
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=667b331ff1d5b48e7b47fd4b565716f9:45ba2e80c6608fe7641d0c7e69cea356
+#EXTINF:-1 tvg-logo="https://d3hhg1rtk1dmrv.cloudfront.net/dialogdigitizationservices/productcatalogue/dtv/4/HitsNow.png", Hits NOW
+https://bpcdn.dialog.lk/bpk-tv/Ch113/output/index.mpd 
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ae508359fc9f70ce602094a432b8cacc:f843004ae56813c6a71ee1a7519cf03c
+#EXTINF:-1 tvg-logo="https://d3hhg1rtk1dmrv.cloudfront.net/dialogdigitizationservices/productcatalogue/dtv/4/080.png", HBO HD
+https://bpcdn.dialog.lk/bpk-tv/Ch114/output/index.mpd 
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=f8ea159f0129e7bed05f81eb5288c1e0:f6ad960cd231beb735920281d78a8968
+#EXTINF:-1 tvg-logo="https://d3hhg1rtk1dmrv.cloudfront.net/dialogdigitizationservices/productcatalogue/dtv/4/079.png", Star Movies HD
+https://bpcdn.dialog.lk/bpk-tv/Ch115/output/index.mpd 
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=cb197938c33a1057be063f1e7d7824b8:36ef32188ed32dd9c0259f0bf3924762
+#EXTINF:-1 tvg-logo="https://d3hhg1rtk1dmrv.cloudfront.net/dialogdigitizationservices/productcatalogue/dtv/4/087.png", Cinema World HD
+https://bpcdn.dialog.lk/bpk-tv/Ch116/output/index.mpd 
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=27cb3d1bff668be04ba6f47592879f1d:f4115bb72d9b0900bf6c1a53344e24da
+#EXTINF:-1 tvg-logo="https://d3hhg1rtk1dmrv.cloudfront.net/dialogdigitizationservices/productcatalogue/dtv/4/084.png", CineMax HD
+https://bpcdn.dialog.lk/bpk-tv/Ch117/output/index.mpd 
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=09713e21a670e4b135b79017eed9f0bc:6b3b2be7607e4dde12c076d5d095794a
+#EXTINF:-1 tvg-logo="https://d3hhg1rtk1dmrv.cloudfront.net/dialogdigitizationservices/productcatalogue/dtv/4/082.png", HBO Hits HD
+https://bpcdn.dialog.lk/bpk-tv/Ch118/output/index.mpd 
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=36b8d1d7098adcae2cb6d150271b5b54:5fe87f36627c621439e8242dc9f4bfb3
+#EXTINF:-1 tvg-logo="https://d3hhg1rtk1dmrv.cloudfront.net/dialogdigitizationservices/productcatalogue/dtv/4/126.png", Star Movies Select HD
+https://bpcdn.dialog.lk/bpk-tv/Ch119/output/index.mpd 
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=a521d7d94563c18155c433f85e3c2ed3:29cb9bc0170332b0ffab44bbd2d09910
+#EXTINF:-1 tvg-logo="https://d3hhg1rtk1dmrv.cloudfront.net/dialogdigitizationservices/productcatalogue/dtv/4/130.png", Star Sports HD 1
+https://bpcdn.dialog.lk/bpk-tv/Ch120/output/index.mpd 
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=1c6db28d2f3a024669ecfcefb1d99a39:cba6f642dac4e2489680631e4b7a0af2
+#EXTINF:-1 tvg-logo="https://d3hhg1rtk1dmrv.cloudfront.net/dialogdigitizationservices/productcatalogue/dtv/4/133.png", Star S Select HD 1
+https://bpcdn.dialog.lk/bpk-tv/Ch121/output/index.mpd 
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=cc0ce9325bfb912a4addf4404cd10791:37aab4a5afa952b9eac0c8ec7dcb4f2d
+#EXTINF:-1 tvg-logo="https://d3hhg1rtk1dmrv.cloudfront.net/dialogdigitizationservices/productcatalogue/dtv/4/132.png", Star S Select HD 2
+https://bpcdn.dialog.lk/bpk-tv/Ch122/output/index.mpd 
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=a4b0d01bb39006fec2e92033a7262e5b:02424c17b4eb9cd19d6f204db874bf55
+#EXTINF:-1 tvg-logo="https://d3hhg1rtk1dmrv.cloudfront.net/dialogdigitizationservices/productcatalogue/dtv/4/sony_sports_2_HD.jpeg", Sony sports 2 HD
+https://bpcdn.dialog.lk/bpk-tv/Ch123/output/index.mpd 
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=94e8de80d8d8159a2a92e75dc83ee207:ff4634d4556cf7a8fafd2a3241097185
+#EXTINF:-1 tvg-logo="https://d3hhg1rtk1dmrv.cloudfront.net/dialogdigitizationservices/productcatalogue/dtv/4/sony_sports_5.jpeg", Sony sports 5 HD
+https://bpcdn.dialog.lk/bpk-tv/Ch124/output/index.mpd 
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0ddf587a9cfc3044e2b7e17dbf0072d9:b176c76a615bb75c681258706af0f0a6
+#EXTINF:-1 tvg-logo="https://d3hhg1rtk1dmrv.cloudfront.net/dialogdigitizationservices/productcatalogue/dtv/4/129_PRE.png", Premier Sports HD
+https://bpcdn.dialog.lk/bpk-tv/Ch125/output/index.mpd 
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=01b1bafc996378ec0a7cb804aedca646:e1669c99c646fbbe4d4ade8dfe3a3963
+#EXTINF:-1 tvg-logo="https://d3hhg1rtk1dmrv.cloudfront.net/dialogdigitizationservices/productcatalogue/dtv/4/PAPARESD.png", ThePapare TV HD
+https://bpcdn.dialog.lk/bpk-tv/Ch126/output/index.mpd
